@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background: navajowhite;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+span {
+  text-transform: uppercase;
+  color: red;
+}
+
+.hidden {
+  visibility: hidden;
+}
