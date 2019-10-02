@@ -31,4 +31,7 @@ function fillForm() {
 
   const hiddenParagraph = document.getElementById('text');
   hiddenParagraph.classList.remove('hidden');
+
+  const nameSpan2 = document.getElementById('heroine-name-2');
+  nameSpan2.textContent = heroineName;
 }
